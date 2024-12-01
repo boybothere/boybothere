@@ -1,8 +1,8 @@
 - 👋 Hey there, I’m @boybothere
-- 👀 I’m interested in robotics and AI concerning ML and DL
-- 🌱 I’m currently learning electronics and comp engg
+- 👀 I’m interested in DSA and implementing them in various projects
+- 🌱 I’m currently learning abt various tech stacks, dsa and also a electronics geek
 - 💞️ I’m looking to collaborate on any fun and challenging projects
-- 📫 How to reach me :my mail zayn25438@gmail.com  (for github)
+- 📫 How to reach me :my mail adrianfernandes2408@gmail.com 
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Home is where the programs are
 
