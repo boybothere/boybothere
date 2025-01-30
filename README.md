@@ -70,7 +70,6 @@
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boybothere&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boybothere&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boybothere&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
