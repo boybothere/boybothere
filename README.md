@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td>⚛️ React</td>
-      <td>Loading...</td>
+      <td><a href="https://github.com/boybothere/CookPrompt">Recipe Generator</a></td>
     </tr>
     <tr>
       <td>🟢 Node.js</td>
