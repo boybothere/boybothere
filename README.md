@@ -52,7 +52,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>🔵 HTML & CSS & JS & PHP</td>
+      <td>🔵 HTML, CSS, JS & PHP</td>
       <td><a href="https://github.com/boybothere/travel-atlas">Responsive Travel Website</a></td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boybothere&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boybothere&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boybothere&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
