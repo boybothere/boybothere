@@ -40,43 +40,38 @@
 </p>
 
 
----
-
-<h2 align="center">✨ Projects</h2>
-<table align="center">
-  <thead>
-    <tr>
-      <th>Technology</th>
-      <th>Projects</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🔵 HTML, CSS, JS & PHP</td>
-      <td><a href="https://github.com/boybothere/travel-atlas">Responsive Travel Website</a></td>
-    </tr>
-    <tr>
-      <td>⚛️ React</td>
-      <td><a href="https://github.com/boybothere/CookPrompt">Recipe Generator</a></td>
-    </tr>
-    <tr>
-      <td>🟢 Nest Js</td>
-      <td><a href="https://github.com/boybothere/nestjs-secure-api">Nest Js Secure API</a></td>
-    </tr>
-    <tr>
-      <td>🟡 C++</td>
-      <td><a href="https://github.com/boybothere/ninja-slayground-2.0">Coding Ninjas Challenge</a></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 🧩 Featured Projects
+
+<p align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=boybothere&repo=sql-agent&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/boybothere/sql-agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=boybothere&repo=CookPrompt&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/boybothere/CookPrompt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=boybothere&repo=nestjs-secure-api&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/boybothere/nestjs-secure-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=boybothere&repo=ninja-slayground-2.0&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/boybothere/ninja-slayground-2.0)
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boybothere&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boybothere&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180"/>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boybothere&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boybothere&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boybothere&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boybothere&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+
 
 ---
 
